@@ -1,4 +1,4 @@
-# Pizza_Sales_Dashboard_Report
+#                                                                         Pizza_Sales_Dashboard_Report
 
 # 🍕 Pizza Sales Dashboard (Tableau)
 
@@ -6,6 +6,9 @@
 An interactive Tableau dashboard analyzing a full year of pizza sales transactions — orders, revenue, categories, sizes, and timing — to help a pizza business understand what's selling, when it's selling, and how individual menu items are performing. Built as a two-page dashboard (**Home** overview + **Best/Worst Sellers** performance page), both connected to a single sales data source.
 
 🔗 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/PizzaReportTab/Home?:language=en-US&publish=yes)
+
+![Home_Page](Home_Page.png)
+
 
 ## 📌 Problem Statement
 
@@ -25,6 +28,9 @@ Without a consolidated view, answering these would mean manually querying raw da
 - Order volume peaked around **12 hour/day**, useful for staffing and inventory planning during rush periods.
 - **Large** was the most popular size (**45.89%** of sales), while **XX-Large**(Extra large) made up the smallest share (**0.12%**) — useful for portion/pricing strategy.
 - **Thai Chicken** tops revenue despite low quantity sold — a premium, high-margin item. **Classic Deluxe** leads in quantity but ranks 4th in revenue — high-volume, lower-price. Signals a menu-mix opportunity: push Thai Chicken for margin, bundle Classic Deluxe for volume.
+
+ ![Best&Worst](Best&Worst.png)
+
 
 ## 💡 Business Impact 
 
