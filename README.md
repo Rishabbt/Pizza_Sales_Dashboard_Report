@@ -29,6 +29,8 @@ Without a consolidated view, answering these would mean manually querying raw da
 - **Large** was the most popular size (**45.89%** of sales), while **XX-Large**(Extra large) made up the smallest share (**0.12%**) — useful for portion/pricing strategy.
 - **Thai Chicken** tops revenue despite low quantity sold — a premium, high-margin item. **Classic Deluxe** leads in quantity but ranks 4th in revenue — high-volume, lower-price. Signals a menu-mix opportunity: push Thai Chicken for margin, bundle Classic Deluxe for volume.
 
+  ![Insights](Insights.png)
+
  ![Best&Worst](Best&Worst.png)
 
 
@@ -65,6 +67,10 @@ This dashboard supports decisions such as:
 - Bottom 5 Pizzas by Revenue
 - Bottom 5 Pizzas by Quantity
 
+**Insights DashBoard**
+  - All the insights
+  - Quick Takeaways
+
 ## 🧠 Why These Chart Types
 
 | Visual | Chart Type | Reasoning |
@@ -81,6 +87,10 @@ This dashboard supports decisions such as:
 
 - `Pizza_Report_Tab.twb` — Tableau workbook (open in Tableau Desktop/Public)
 - `pizza_sales_2025.csv` — source data *(add to repo if sharing publicly, or link to dataset source)*
+- `Home_Page.png` - Screenshot of Home Dashboard 
+- `Besr&Worst.png` - Screenshot of Best/Worst Dashboard
+- `Insights.png` - Screenshot of Insights Dashboard
+- `README.md` - Contain all the information of the Anylasis
 
 ## ℹ️ Additional Notes
 
